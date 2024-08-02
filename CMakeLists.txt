@@ -71,8 +71,8 @@ set(QL_EXTERNAL_SUBDIRECTORIES "" CACHE STRING "Optional list of external source
 set(QL_EXTRA_LINK_LIBRARIES "" CACHE STRING "Optional extra link libraries to add to QuantLib")
 
 # hook
-set(QL_EXTERNAL_SUBDIRECTORIES "/Users/imraneamri/Documents/Xcelerit/Rane-QuantLib-Risks-Integration/xad;/Users/imraneamri/Documents/Xcelerit/Rane-QuantLib-Risks-Integration/QuantLib-Risks-Cpp")
-set(QL_EXTRA_LINK_LIBRARIES "QuantLib-Risks")
+#set(QL_EXTERNAL_SUBDIRECTORIES "/Users/imraneamri/Documents/Xcelerit/Rane-QuantLib-Risks-Integration/xad;/Users/imraneamri/Documents/Xcelerit/Rane-QuantLib-Risks-Integration/QuantLib-Risks-Cpp")
+#set(QL_EXTRA_LINK_LIBRARIES "QuantLib-Risks")
 set(QL_NULL_AS_FUNCTIONS ON)
 set(CMAKE_CXX_STANDARD 20)
 
